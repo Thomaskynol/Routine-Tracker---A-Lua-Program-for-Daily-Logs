@@ -1,3 +1,5 @@
+--scripts just for notes
+
 local function printTable(table)
     print("printedTable = {")
     for key, value in pairs(table) do
