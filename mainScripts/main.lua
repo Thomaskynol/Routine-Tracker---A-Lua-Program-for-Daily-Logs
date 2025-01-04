@@ -1,5 +1,4 @@
 -- Imports
-require("luapath")
 local dataManagement = require("dataManagement")
 local userInteraction = require("userInteraction")
 local scoreCalculation = require("scoreCalculation")
